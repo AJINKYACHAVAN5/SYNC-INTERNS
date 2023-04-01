@@ -1,2 +1,2 @@
 # SYNC-INTERNS
-# Software Development Internship (March 2023)
+# Software Development Internship (March-April 2023)
